@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Haris Muhammad</title>
+    <link>/tags/untagged/</link>
+    <description>Recent content in untagged on Haris Muhammad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>H. M.</copyright>
+    <lastBuildDate>Tue, 18 Jun 2019 17:45:46 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, World</title>
+      <link>/essays/hello-world/</link>
+      <pubDate>Tue, 18 Jun 2019 17:45:46 -0400</pubDate>
+      
+      <guid>/essays/hello-world/</guid>
+      <description>Welcome! This my personal website and its initial setup right now: GitHub as host, Hugo as the blogging engine, and this theme heavily modified . Although there is plenty to fix and finish, a start&amp;rsquo;s a start. Hugo definitely presents a far steeper learning curve than Jekyll, and its benefits are not apparent yet. But, giving any tech a proper runthrough is necessary, and I consider a proper runthrough as getting to a &amp;ldquo;production&amp;rdquo; MVP.</description>
+    </item>
+    
+  </channel>
+</rss>
