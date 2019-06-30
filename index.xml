@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>H. M.</copyright>
-    <lastBuildDate>Sat, 22 Jun 2019 19:36:38 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2019 19:53:35 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Teaching Others Helps You Learn</title>
+      <link>/essays/why-teaching-others-helps-you-learn/</link>
+      <pubDate>Thu, 27 Jun 2019 19:53:35 -0400</pubDate>
+      
+      <guid>/essays/why-teaching-others-helps-you-learn/</guid>
+      <description>I know programming, but none of my family or friends understand it. Yet, I still make a sincere effort to explain my work. Some common questions I get from them are:
+ What does all this text do? What&amp;rsquo;s with all the colors? Is this hacking/cracking? What exactly are cookies?  None of these are informed questions but I enjoy answering them nonetheless. They may seem like a waste of time for someone with expertise, but you can still learn a lot from these basic questions.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Wed, 26 Jun 2019 11:36:31 -0400</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Summary I am an accomplished Software Engineer specialized in Full Stack JavaScript with over two years of experience, most of which was spent in high-level, leadership roles. I led the development of two startups which resulted in two MVP launches and one successful acquisition. I am also uniquely skilled in writing and regularly compose essays here.
+Technical Skills  Languages:  Proficient: JavaScript, Python, HTML, CSS, SQL, Markdown Familiar: Java, C Learning: Typescript, Ruby  Frameworks: Node, Express, React/React Native, Angular Tools: Linux/Unix, Bash, Git, Mocha  Read more &amp;rarr;</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -19,9 +39,9 @@
       
       <guid>/about/</guid>
       <description>Hello My name is Haris, and I&amp;rsquo;m the owner of this website.
-Here, I share my writings on various subjects and hobbies, particularly programming, learning, reading, and music. I don&amp;rsquo;t post often and instead focus on depth and quality of content. So, the best way to stay up-to-date is through the site&amp;rsquo;s RSS.
-Although it may not be much, thank you for taking the time to visit.
-To reach me:</description>
+Here, I explain my programming in-depth and share essays on my various interests, particularly books, music, and education. I don&amp;rsquo;t post often and instead focus on depth of content. The best way to stay up-to-date is through the site&amp;rsquo;s RSS.
+To reach me:
+ email at hmuhammad+blog {at} outlook {dot} com see my resume here browse my coding projects at github visit my profile at linkedin  Although it may not be much, thank you for taking the time to read and visit.</description>
     </item>
     
     <item>
@@ -34,12 +54,22 @@ To reach me:</description>
     </item>
     
     <item>
+      <title>Learning How to Program (and Plenty of Other Skills)</title>
+      <link>/essays/learning-how-to-program/</link>
+      <pubDate>Thu, 20 Jun 2019 22:50:41 -0400</pubDate>
+      
+      <guid>/essays/learning-how-to-program/</guid>
+      <description>Almost everyone claims to have the course or curriculum for learning code, be it giant colleges or small startups. However, I believe programming is one those skills that cannot be truly learned from lecturing or reading. It is a practical skill, much like playing an instrument or delivering a speech, that needs practical action. It is easy to teach the theory (and with programming, that is still a must), but making the transition from idealized textbooks to real-world problems demands real exposure.</description>
+    </item>
+    
+    <item>
       <title>Hello, World</title>
       <link>/essays/hello-world/</link>
-      <pubDate>Tue, 18 Jun 2019 17:45:46 -0400</pubDate>
+      <pubDate>Sat, 08 Jun 2019 17:45:46 -0400</pubDate>
       
       <guid>/essays/hello-world/</guid>
-      <description>Welcome! This my personal website and its initial setup right now: GitHub as host, Hugo as the blogging engine, and this theme heavily modified . Although there is plenty to fix and finish, a start&amp;rsquo;s a start. Hugo definitely presents a far steeper learning curve than Jekyll, and its benefits are not apparent yet. But, giving any tech a proper runthrough is necessary, and I consider a proper runthrough as getting to a &amp;ldquo;production&amp;rdquo; MVP.</description>
+      <description>Welcome. This is my personal website and its initial setup right now. GitHub is serving as host, Hugo is the blogging engine, and the theme is this one heavily modified. Although there&amp;rsquo;s plenty to fix and finish, a start&amp;rsquo;s a start.
+Hugo definitely presents a far steeper learning curve than Jekyll, and its benefits are not apparent yet. But, giving any tech a proper run-through is important, and I consider a proper run-through as getting to a production MVP.</description>
     </item>
     
     <item>

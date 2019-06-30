@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on Haris Muhammad</title>
+    <link>/tags/programming/</link>
+    <description>Recent content in programming on Haris Muhammad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>H. M.</copyright>
+    <lastBuildDate>Thu, 20 Jun 2019 22:50:41 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning How to Program (and Plenty of Other Skills)</title>
+      <link>/essays/learning-how-to-program/</link>
+      <pubDate>Thu, 20 Jun 2019 22:50:41 -0400</pubDate>
+      
+      <guid>/essays/learning-how-to-program/</guid>
+      <description>Almost everyone claims to have the course or curriculum for learning code, be it giant colleges or small startups. However, I believe programming is one those skills that cannot be truly learned from lecturing or reading. It is a practical skill, much like playing an instrument or delivering a speech, that needs practical action. It is easy to teach the theory (and with programming, that is still a must), but making the transition from idealized textbooks to real-world problems demands real exposure.</description>
+    </item>
+    
+  </channel>
+</rss>
