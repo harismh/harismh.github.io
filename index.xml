@@ -45,12 +45,16 @@ To reach me:
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/projects/</link>
+      <title>Portfolio</title>
+      <link>/portfolio/</link>
       <pubDate>Sat, 22 Jun 2019 18:22:03 -0400</pubDate>
       
-      <guid>/projects/</guid>
-      <description>Page in progress.</description>
+      <guid>/portfolio/</guid>
+      <description>These are some projects I worked on that are either open-source or non-private. Licensing varies for each, so please read the README or LICENSE for each repo.
+To find out more about myself, please check out the about page or my resume.
+Narnia: Social Media for Fashion (iOS/Android) Narnia: Login, Feed, and Search Screens  Repo link: &amp;rarr;
+Technical stack:
+ React React Native NodeJS Express MySQL Xcode (for builds)  Narnia is a project aimed at creating a rich social media platform designed for fashion.</description>
     </item>
     
     <item>
