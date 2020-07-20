@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haris Muhammad</title>
@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Sun, 19 Jul 2020 11:36:31 -0400</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Summary I am an accomplished Software Engineer specializing in Full Stack JavaScript with over three years of experience, most of which was spent in high-level, leadership roles. I served as the technical advisor for two startups and led the development of a successful MVP. CUrrently, I serve as the Client Development Lead at FLIP.
+Technical Skills   Experienced:
+ Full Stack Development, Web and Mobile Applications, Servers and Networking, Database Scheming, API Designing, Static Analysis, Unit Testing, Version Control, Git Flow, Agile/Scrum    Languages:</description>
+    </item>
+    
+    <item>
       <title>Why Teaching Others Helps You Learn</title>
       <link>/essays/why-teaching-others-helps-you-learn/</link>
       <pubDate>Thu, 27 Jun 2019 19:53:35 -0400</pubDate>
@@ -20,16 +31,6 @@
       <guid>/essays/why-teaching-others-helps-you-learn/</guid>
       <description>I know programming, but none of my family or friends understand it. Yet, I still make a sincere effort to explain my work. Some common questions I get from them are:
  What does all this text do? What&amp;rsquo;s with all the colors? Is this hacking/cracking? What exactly are cookies?  None of these are informed questions but I enjoy answering them nonetheless. They may seem like a waste of time for someone with expertise, but you can still learn a lot from these basic questions.</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>/resume/</link>
-      <pubDate>Wed, 26 Jun 2019 11:36:31 -0400</pubDate>
-      
-      <guid>/resume/</guid>
-      <description>Summary I am an accomplished Software Engineer specialized in Full Stack JavaScript with over two years of experience, most of which was spent in high-level, leadership roles. I led the development of two startups which resulted in two MVP launches and one successful acquisition. I am also uniquely skilled in writing and regularly compose essays here.
-Technical Skills  Languages:  Proficient: JavaScript, Python, HTML, CSS, SQL, Markdown Familiar: Java, C Learning: TypeScript, Ruby  Frameworks: Node, Express, React/React Native, Angular Tools: Linux/Unix, Bash, Git, Mocha  Read more &amp;rarr;</description>
     </item>
     
     <item>
@@ -52,7 +53,7 @@ To reach me:
       <guid>/portfolio/</guid>
       <description>These are some projects I worked on that are either open-source or non-private. Licensing varies for each, so please read the README or LICENSE for each repo.
 To find out more about myself, please check out the about page or my resume.
-Narnia: Social Media for Fashion (iOS/Android) Narnia: Login, Feed, and Search Screens  Repo link: &amp;rarr;
+Narnia: Social Media for Fashion (iOS/Android) Narnia: Login, Feed, and Search Screens  Repo link: →
 Technical stack:
  React React Native NodeJS Express MySQL Xcode (for builds)  Narnia is a project aimed at creating a rich social media platform designed for fashion.</description>
     </item>
