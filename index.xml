@@ -7,20 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>H. M.</copyright>
-    <lastBuildDate>Thu, 27 Jun 2019 19:53:35 -0400</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 27 Jun 2019 19:53:35 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
       <link>/resume/</link>
       <pubDate>Sun, 19 Jul 2020 11:36:31 -0400</pubDate>
       
       <guid>/resume/</guid>
-      <description>Summary I am an accomplished Software Engineer specializing in Full Stack JavaScript with over three years of experience, most of which was spent in high-level, leadership roles. I served as the technical advisor for two startups and led the development of a successful MVP. CUrrently, I serve as the Client Development Lead at FLIP.
+      <description>Summary I am an accomplished Software Engineer specializing in Full Stack JavaScript with over five years of experience, most of which was spent in high-level, leadership roles. I served as the technical advisor for two startups and led the development of a successful MVP. Currently, I serve as CTO at FLIP.
 Technical Skills   Experienced:
- Full Stack Development, Web and Mobile Applications, Servers and Networking, Database Scheming, API Designing, Static Analysis, Unit Testing, Version Control, Git Flow, Agile/Scrum    Languages:</description>
+ Full Stack Development, Web and Mobile Applications, Servers and Networking, Database Scheming, API Designing, Static Analysis, Unit Testing, Version Control, Git Flow, Agile/Scrum, Continuous Integration    Languages:</description>
     </item>
     
     <item>
